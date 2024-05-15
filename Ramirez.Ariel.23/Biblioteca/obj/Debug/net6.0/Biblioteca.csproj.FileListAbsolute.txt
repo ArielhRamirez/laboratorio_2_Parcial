@@ -1,0 +1,4 @@
+D:\Clases\Ramirez.Ariel.23\Biblioteca\obj\Debug\net6.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clases\Ramirez.Ariel.23\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfoInputs.cache
+D:\Clases\Ramirez.Ariel.23\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfo.cs
+D:\Clases\Ramirez.Ariel.23\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.CoreCompileInputs.cache
